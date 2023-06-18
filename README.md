@@ -1,5 +1,26 @@
-# boiler plate react + vite + vitest + tailwind first commits
+## ReactJS and tailwind To Do App
 
-## [error] blank render all browsers, no error warning, using a icon component from react-icon without importing
+## cara untuk menjalankan App
+Pertama, buka terminal dan lakukan perintah berikut:
 
-## [advice] [configuring vitest](https://waresix.engineering/vitest-unit-testing-to-test-react-application-177ade1e6c1b)|| [eslint for react testting library](https://github.com/testing-library/eslint-plugin-testing-library/blob/main/docs/migration-guides/v4.md#aggressive-reporting) and [also see](https://stackoverflow.com/questions/69842785/how-can-i-intregate-eslint-in-a-vitereact-project) || [example of vitest working](https://github.com/vitest-dev/vitest/blob/main/examples/react-testing-lib/package.json)||[created test/setup.js to repair testing "chai error"]
+```bash
+git clone https://github.com/dany-boop/SeleksiCodingThunderLab.git
+```
+
+Kedua, install `depedencies` didalam proyek yang sudah Anda clone:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+Ketiga, jalankan server pengembangan:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Keempat, buka [http://localhost:3000](http://localhost:3000) pada browser Anda dan lihat hasilnya.
