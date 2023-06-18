@@ -1,4 +1,4 @@
-## ReactJS and tailwind To Do App
+## ReactJS  To Do App
 
 ## cara untuk menjalankan App
 Pertama, buka terminal dan lakukan perintah berikut:
