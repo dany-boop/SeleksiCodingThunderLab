@@ -4,7 +4,7 @@
 Pertama, buka terminal dan lakukan perintah berikut:
 
 ```bash
-git clone https://github.com/dany-boop/SeleksiCodingThunderLab.git
+git clone https://github.com/dany-boop/Todo-App.git
 ```
 
 Kedua, install `depedencies` didalam proyek yang sudah Anda clone:
